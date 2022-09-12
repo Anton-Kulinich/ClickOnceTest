@@ -25,6 +25,7 @@ namespace ClickOnceTest
         {
             InitializeComponent();
             this.VersionText.Text = Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            this.VersionText2.Text = Assembly.GetExecutingAssembly().GetName().Version.ToString();
         }
     }
 }

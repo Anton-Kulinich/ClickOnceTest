@@ -17,6 +17,6 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock Height="auto" Width="auto" Grid.Row="0" Grid.Column="0" Margin="20 20 20 20" Name="VersionText"></TextBlock>
-        <TextBlock Height="auto" Width="auto" Grid.Row="1" Grid.Column="0" Margin="20 20 20 20" Name="VersionText"></TextBlock>
+        <TextBlock Height="auto" Width="auto" Grid.Row="1" Grid.Column="0" Margin="20 20 20 20" Name="VersionText2"></TextBlock>
     </Grid>
 </Window>
